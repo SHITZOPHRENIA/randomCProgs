@@ -6,4 +6,6 @@ Only Standard C stuff. (Correct me if i happend to use any platform specifig stu
 # file prefix reference:
 u_ = useful/handy programs.
 
+h_ = health
+
 f_ = made for fun or for just the sake of it.
