@@ -159,9 +159,6 @@ int main(int argc, char* argv[]) {
         StrToFloat(argv[1], &weight);
     }
 
-
-    // TODO: Add file operations next.
-
     // open file in 'append' mode
     FILE* f = fopen(fName, "a");
     if (!f) {
